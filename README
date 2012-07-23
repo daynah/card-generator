@@ -2,3 +2,7 @@ Greeting Card Generator for PHP
 Written by Daynah (daynah at gmail dot com)
 Last updated: 7/22/2012
 
+This script contains three files: 
+- card.php - contains the cardClass that generates a card with personal text message overlaying a blank image. 
+- config.php - default settings class
+- index.php - main, creates a test image with test case holidaycard3.png
